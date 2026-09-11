@@ -280,24 +280,24 @@ p:last-child { margin-bottom: 0; }
 }
 
 .brand-logo-img {
-  height: 42px;
+  height: 48px;
   width: auto;
-  max-width: 190px;
+  max-width: 220px;
   object-fit: contain;
   display: block;
   transition: transform var(--transition-fast);
 }
 
 .brand-logo:hover .brand-logo-img {
-  transform: scale(1.03);
+  transform: scale(1.04);
 }
 
 .site-footer .brand-logo-img {
-  height: 46px;
+  height: 48px;
   background: #FFFFFF;
   padding: 6px 14px;
   border-radius: var(--radius-sm);
-  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.25);
 }
 
 .brand-tagline {
